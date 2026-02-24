@@ -3,5 +3,4 @@
 Documentation Assistant using LangChain & RAG
 
 ## Demo
-<video src="assets/documentation_helper.mp4" controls width="600"></video>
- 
+https://github.com/user-attachments/assets/48f6d88c-978d-4ce5-932e-2dc1ff06705c
